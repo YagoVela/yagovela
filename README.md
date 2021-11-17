@@ -28,7 +28,7 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-<p align="left" display: inline-block>
+<p align="center" display: inline-block>
 <img width="400em" src="https://github-readme-stats.vercel.app/api?username=yagovela&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
 <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagovela&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
 </p>
