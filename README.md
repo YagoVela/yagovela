@@ -4,7 +4,7 @@
 
 - 🔥 Studying Computer Science - Univem
 
-- 🔭 I’m currently working at [Select Consulting](http://www.select.consulting)
+- 🔭 Student for FULLSTACK.
 
 - 👨‍💻 All of my projects are available at [yagovela](https://github.com/YagoVela?tab=repositories)
 
