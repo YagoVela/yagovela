@@ -25,7 +25,6 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 
 <br>
-<br>
 
 ## ⚙️ &nbsp;GitHub Analytics
 
