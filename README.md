@@ -23,6 +23,18 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+![Styled Components](https://img.shields.io/badge/-Styled%20Components-05122A?style=flat&logo=StyledComponents)&nbsp;
+![TypeOrm](https://img.shields.io/badge/-TypeORM-05122A?style=flat&logo=TypeORM)&nbsp;
+![MySql](https://img.shields.io/badge/-MySql-05122A?style=flat&logo=Mysql)&nbsp;
+
+<br>
+
+## 🛠 &nbsp;Tech Study Stack - 2022
+
+![Vite](https://img.shields.io/badge/-Vite-05122A?style=flat&logo=vite)&nbsp;
+![Stitches](https://img.shields.io/badge/-Stitches-05122A?style=flat&logo=stitches)&nbsp;
+![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
+![Prisma](https://img.shields.io/badge/-Prisma-05122A?style=flat&logo=prisma)&nbsp;
 
 <br>
 
