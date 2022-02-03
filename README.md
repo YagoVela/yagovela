@@ -26,6 +26,7 @@
 ![Styled Components](https://img.shields.io/badge/-Styled%20Components-05122A?style=flat&logo=StyledComponents)&nbsp;
 ![TypeOrm](https://img.shields.io/badge/-TypeORM-05122A?style=flat&logo=TypeORM)&nbsp;
 ![MySql](https://img.shields.io/badge/-MySql-05122A?style=flat&logo=Mysql)&nbsp;
+![Sass](img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
 
 <br>
 
