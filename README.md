@@ -1,13 +1,20 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Yago Vela</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yagovela&color=yellow" alt="Profile views" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=yagovela&color=yellow" alt="Profile views" /> </p> -->
 
-- 🔥 Studying Computer Science - Univem
+<div>
+  <p>How to reach me:
+    <a href="https://www.linkedin.com/in/yagovela/" target="_blank">
+      <img align="center" src="https://img.shields.io/badge/-yagovela-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+    </a>
+    <a target="_blank">
+      <img align="center" src="https://img.shields.io/badge/-yagovela@gmil.com-05122A?style=flat&logo=gmail" alt="linkedin"/>
+    </a>
+  </p>
+</div>
 
-- 🔭 Student for FULLSTACK.
+I'm a student computer science and i'm in the last term in university. Currently i do part of a team specializes in delivering high-quality Front-end and Back-end solutions
 
-- 👨‍💻 All of my projects are available at [yagovela](https://github.com/YagoVela?tab=repositories)
 
-<br>
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -28,8 +35,6 @@
 ![MySql](https://img.shields.io/badge/-MySql-05122A?style=flat&logo=Mysql)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
 
-<br>
-
 ## 🛠 &nbsp;Tech Study Stack - 2022
 
 ![Vite](https://img.shields.io/badge/-Vite-05122A?style=flat&logo=vite)&nbsp;
@@ -37,37 +42,6 @@
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
 ![Prisma](https://img.shields.io/badge/-Prisma-05122A?style=flat&logo=prisma)&nbsp;
 
-<br>
-
-## ⚙️ &nbsp;GitHub Analytics
-
-<p align="center" display: inline-block>
-<img width="400em" src="https://github-readme-stats.vercel.app/api?username=yagovela&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
-<img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagovela&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
-</p>
-
-<br>
-
-## 🤙🏻 &nbsp;Connect with Me
-
-<p align="left" style="background:yellow">
-<img align="center" src="https://img.shields.io/badge/-yagovela@gmail.com-05122A?style=flat&logo=gmail" alt="codepen"/>
-<a href="https://br.linkedin.com/in/yago-vela-80b128164" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-yagovela-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-</p>
-
 <!--
 **YagoVela/yagovela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
