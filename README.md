@@ -12,7 +12,8 @@
   </p>
 </div>
 
-I'm a student computer science and i'm in the last term in university. Currently i do part of a team specializes in delivering high-quality Front-end and Back-end solutions
+I'm a computer science student in my final year of college.
+Currently I'm part of a team specialized in delivering high-quality Front-end solutions (I’m a Full-Stack)
 
 
 
