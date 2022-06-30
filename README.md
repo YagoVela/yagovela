@@ -47,6 +47,9 @@ Currently I'm part of a team specialized in delivering high-quality Front-end an
 ![Stitches](https://img.shields.io/badge/-Stitches-05122A?style=flat&logo=stitches)&nbsp;
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
 ![Prisma](https://img.shields.io/badge/-Prisma-05122A?style=flat&logo=prisma)&nbsp;
+![.NET](https://img.shields.io/badge/-.NET-05122A?style=flat&logo=.NET)&nbsp;
+![.SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=SQLite)&nbsp;
+![.Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=Angular)&nbsp;
 
 <!--
 **YagoVela/yagovela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
