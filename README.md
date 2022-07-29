@@ -7,7 +7,7 @@
       <img align="center" src="https://img.shields.io/badge/-yagovela-05122A?style=flat&logo=linkedin" alt="linkedin"/>
     </a>
     <a target="_blank">
-      <img align="center" src="https://img.shields.io/badge/-yagovela@gmail.com-05122A?style=flat&logo=gmail" alt="linkedin"/>
+      <img align="center" src="https://img.shields.io/badge/-yagovela@outlook.com-05122A?style=flat&logo=gmail" alt="linkedin"/>
     </a>
   </p>
 </div>
