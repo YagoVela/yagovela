@@ -13,7 +13,7 @@
 </div>
 
 I'm a computer science student in my final year of college.
-Currently I'm part of a team specialized in delivering high-quality Front-end and Back-end solutions
+Currently I'm part of a team specialized in delivering high-quality Front-end solutions
 
 
 
